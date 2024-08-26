@@ -10,6 +10,8 @@ SECRET_KEY = "3d305kajG5Jy8KBafCMpHwDIsNi0SqVaW"
 DEBUG = False
 ALLOWED_HOSTS = [
     "example.com",
+    ".vercel.app",
+    "127.0.0.1",
 ]
 
 SITE_ID = 1
